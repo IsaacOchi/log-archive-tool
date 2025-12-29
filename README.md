@@ -215,7 +215,7 @@ chmod +x log-archive
 
 ## Project Requirements
 
-This project fulfills the requirements from [roadmap.sh Log Archive Project](https://roadmap.sh/projects/log-archive):
+This project fulfills the requirements from https://roadmap.sh/projects/log-archive-tool:
 
 - ✅ Accept log directory as command-line argument
 - ✅ Compress logs in tar.gz format
